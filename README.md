@@ -20,6 +20,10 @@ execute the following commands in your Powershell
 
 If the required Packages are installed. You can go on with the next steps
 
+# The Winget way
+winget install Hashicorp.Packer
+
+
 ## Prepare the scripts to make an automated deployment of your vmware vsphere Templates
 
 1. Clone the Repository
