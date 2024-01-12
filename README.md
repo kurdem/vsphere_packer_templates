@@ -44,3 +44,6 @@ go to the *w***.base* folder
 Execute the scripts as followed:
 
 `packer build  -var-file ..\variables_YOUR_VARFILE.json .\Server2019_vsphere.json`
+
+# Noch offen
+Die Vorlagen sind noch nicht UEFI sonder BIOS Maschinen
