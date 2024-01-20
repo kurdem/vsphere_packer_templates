@@ -39,11 +39,17 @@ winget install Hashicorp.Packer
 
 ## Execute the Scripts 
 
+Packer Plugin nachinstallieren
+packer init packer.pkr.hcl
+
 go to the *w***.base* folder
 
 Execute the scripts as followed:
-
+Windows 
 `packer build  -var-file ..\variables_YOUR_VARFILE.json .\Server2019_vsphere.json`
+
+Linux
+packer build  -var-file ../variables_YOUR_VARFILE.json ./Server2019_vsphere.json
 
 # Noch offen
 Die Vorlagen sind noch nicht UEFI sonder BIOS Maschinen
