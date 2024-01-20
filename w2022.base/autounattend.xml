@@ -62,6 +62,10 @@
             </ImageInstall>
             <UserData>
                 <AcceptEula>true</AcceptEula>
+                <ProductKey>
+                    <WillShowUI>Never</WillShowUI>
+                    <Key>VDYBN-27WPP-V4HQT-9VMD4-VMK7H</Key>
+                </ProductKey>
             </UserData>
         </component>
     </settings>
