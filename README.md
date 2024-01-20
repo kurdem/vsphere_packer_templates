@@ -40,6 +40,7 @@ winget install Hashicorp.Packer
 ## Execute the Scripts 
 
 Packer Plugin nachinstallieren
+
 packer init packer.pkr.hcl
 
 go to the *w***.base* folder
