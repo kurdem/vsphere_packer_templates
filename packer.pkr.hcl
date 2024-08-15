@@ -6,7 +6,7 @@ packer {
       source  = "github.com/hashicorp/vsphere"
     }
     windows-update = {
-      version = "0.15.0"
+      version = "0.16.7"
       source = "github.com/rgl/windows-update"
     }
   }
